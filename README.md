@@ -34,7 +34,7 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/PyHelper'> PyHelper </a> | <a href='https://github.com/alexatwoodhead/PyHelper'>repo</a> | <a href='https://github.com/rcemper/DK_PyHelper'>demo</a> | 764
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
 | <a href='https://openexchange.intersystems.com/package/sscp'> sscp </a> | <a href='https://github.com/sween/sscp'>repo</a> | <a href='https://github.com/rcemper/DK_sscp/tree/main'>demo</a> | 835
-| Total **22** | 2024-02-29|17:25:32 |
+| Total **19** | 2024-02-29|17:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
