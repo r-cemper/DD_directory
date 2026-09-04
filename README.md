@@ -24,7 +24,6 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/Interopway-XDBC'>Interopway XDBC </a> | <a href='https://github.com/cristianojs/interopway'>repo</a> | <a href='https://github.com/rcemper/DK_interopway'>demo</a> | 132
 | <a href='https://openexchange.intersystems.com/package/Intersystems-IRIS-platform-queue-trend-monitoring-component'> Intersystems IRIS platform queue trend monitoring component </a> | <a href='https://github.com/maoyubo/-Queue'>repo</a> | <a href='https://github.com/rcemper/DD_Queue'>demo</a> | 740
 | <a href='https://openexchange.intersystems.com/package/IRIS-memory-configuration-wizard'>IRIS memory configuration wizard</a> | <a href='https://github.com/bdeboe/isc-mem-config'>repo</a> | <a href='https://github.com/rcemper/DK_memory-configuration-wizard'>demo</a> | 164
-| <a href='https://openexchange.intersystems.com/package/iris-mail'>iris-mail</a> | <a href='https://github.com/rcemper/pr_iris-mail'>repo ?</a> | <a href='https://github.com/rcemper/DD_iris-mail'>demo</a> | 613
 | <a href='https://openexchange.intersystems.com/package/isc-json'>isc-json</a> | <a href='https://github.com/intersystems/isc-json'>repo</a> | <a href='https://github.com/rcemper/DD_isc-json'>demo</a> | 622
 | <a href='https://openexchange.intersystems.com/package/MDX-Query-Auditing-Samples'>MDX Query Auditing Samples</a> | <a href='https://github.com/sduncan01/CubeAuditing'>repo</a> | <a href='https://github.com/rcemper/DD_CubeAuditing'>demo</a> | 83
 | <a href='https://openexchange.intersystems.com/package/MDX2JSON'>MDX2JSON</a> | <a href='https://github.com/intersystems-ru/Cache-MDX2JSON'>repo</a> | <a href='https://github.com/rcemper/DD_mdx2json'>demo</a> | 47
@@ -33,7 +32,7 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/ompare'>ompare</a> | <a href='https://github.com/alexatwoodhead/ompare'>repo</a> | <a href='https://github.com/rcemper/DK_ompare'>demo</a> | 75
 | <a href='https://openexchange.intersystems.com/package/PyHelper'> PyHelper </a> | <a href='https://github.com/alexatwoodhead/PyHelper'>repo</a> | <a href='https://github.com/rcemper/DK_PyHelper'>demo</a> | 764
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **18** | 2026-09-04|17:25:32 |
+| Total **17** | 2026-09-04|17:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
