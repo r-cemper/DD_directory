@@ -18,7 +18,6 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/BulkProfile-HL7RoutingRules'>BulkProfile_HL7RoutingRules</a> | <a href='https://github.com/alexatwoodhead/BulkProfile_HL7RoutingRules'>repo</a> | <a href='https://github.com/rcemper/DD_BulkProfile_HL7RoutingRules'>demo</a> | 631
 | <a href='https://openexchange.intersystems.com/package/EnsHelper'> EnsHelper </a> | <a href='https://github.com/alexatwoodhead/EnsHelper'>repo</a> | <a href='https://github.com/rcemper/DK_EnsHelper'>demo</a> | 833
 | <a href='https://openexchange.intersystems.com/package/GoSelector'>GoSelector</a> | <a href='https://github.com/alexatwoodhead/GoSelector'>repo</a> | <a href='https://github.com/rcemper/DK_GoSelector'>demo</a> | 679
-| <a href='https://openexchange.intersystems.com/package/iknow-utils'> iknow-utils </a> | <a href='https://github.com/bdeboe/isc-iknow-utils'>repo</a> | <a href='https://github.com/rcemper/DD_isc-iknow-utils'>demo</a> | 723
 | <a href='https://openexchange.intersystems.com/package/Ikon'>Ikon</a> | <a href='https://github.com/AndreiLN/Ikon'>repo</a> | <a href='https://github.com/rcemper/DD_Ikon'>demo</a> | 294
 | <a href='https://openexchange.intersystems.com/package/Interopway-REST'> Interopway REST </a> | <a href='https://github.com/cristianojs/interopway_rest'>repo</a> | <a href='https://github.com/rcemper/DK_interopway_rest'>demo</a> | 783
 | <a href='https://openexchange.intersystems.com/package/Interopway-XDBC'>Interopway XDBC </a> | <a href='https://github.com/cristianojs/interopway'>repo</a> | <a href='https://github.com/rcemper/DK_interopway'>demo</a> | 132
@@ -32,7 +31,7 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/ompare'>ompare</a> | <a href='https://github.com/alexatwoodhead/ompare'>repo</a> | <a href='https://github.com/rcemper/DK_ompare'>demo</a> | 75
 | <a href='https://openexchange.intersystems.com/package/PyHelper'> PyHelper </a> | <a href='https://github.com/alexatwoodhead/PyHelper'>repo</a> | <a href='https://github.com/rcemper/DK_PyHelper'>demo</a> | 764
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **17** | 2026-09-04|17:25:32 |
+| Total **16** | 2026-09-05|09:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
