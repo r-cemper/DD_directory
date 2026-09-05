@@ -27,10 +27,9 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/MDX2JSON'>MDX2JSON</a> | <a href='https://github.com/intersystems-ru/Cache-MDX2JSON'>repo</a> | <a href='https://github.com/rcemper/DD_mdx2json'>demo</a> | 47
 | <a href='https://openexchange.intersystems.com/package/Message-Bank'>Message Bank</a> | <a href='https://github.com/rcemper/DK_messagebank'>repo</a> | <a href='https://github.com/rcemper/DK_messagebank'>demo</a> | 212
 | <a href='https://openexchange.intersystems.com/package/objectscript-json-patch'>objectscript-json-patch</a> | <a href='https://github.com/grongierisc/objectscript-json-patch'>repo</a> | <a href='https://github.com/rcemper/DK_objectscript-json-patch'>demo</a> | 688
-| <a href='https://openexchange.intersystems.com/package/ompare'>ompare</a> | <a href='https://github.com/alexatwoodhead/ompare'>repo</a> | <a href='https://github.com/rcemper/DK_ompare'>demo</a> | 75
 | <a href='https://openexchange.intersystems.com/package/PyHelper'> PyHelper </a> | <a href='https://github.com/alexatwoodhead/PyHelper'>repo</a> | <a href='https://github.com/rcemper/DK_PyHelper'>demo</a> | 764
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **15** | 2026-09-05|09:25:32 |
+| Total **14** | 2026-09-05|16:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
