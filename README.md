@@ -22,10 +22,9 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/IRIS-memory-configuration-wizard'>IRIS memory configuration wizard</a> | <a href='https://github.com/bdeboe/isc-mem-config'>repo</a> | <a href='https://github.com/rcemper/DK_memory-configuration-wizard'>demo</a> | 164
 | <a href='https://openexchange.intersystems.com/package/isc-json'>isc-json</a> | <a href='https://github.com/intersystems/isc-json'>repo</a> | <a href='https://github.com/rcemper/DD_isc-json'>demo</a> | 622
 | <a href='https://openexchange.intersystems.com/package/MDX-Query-Auditing-Samples'>MDX Query Auditing Samples</a> | <a href='https://github.com/sduncan01/CubeAuditing'>repo</a> | <a href='https://github.com/rcemper/DD_CubeAuditing'>demo</a> | 83
-| <a href='https://openexchange.intersystems.com/package/Message-Bank'>Message Bank</a> | <a href='https://github.com/rcemper/DK_messagebank'>repo</a> | <a href='https://github.com/rcemper/DK_messagebank'>demo</a> | 212
 | <a href='https://openexchange.intersystems.com/package/objectscript-json-patch'>objectscript-json-patch</a> | <a href='https://github.com/grongierisc/objectscript-json-patch'>repo</a> | <a href='https://github.com/rcemper/DK_objectscript-json-patch'>demo</a> | 688
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **10** | 2026-09-09|17:25:32 |
+| Total **9** | 2026-09-09|17:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
