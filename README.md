@@ -16,7 +16,6 @@ guide of the selected repo  - if available -  is required.
 | OEX package | Repo | Demo |   
 | --- | --- | --- |   
 | <a href='https://openexchange.intersystems.com/package/BulkProfile-HL7RoutingRules'>BulkProfile_HL7RoutingRules</a> | <a href='https://github.com/alexatwoodhead/BulkProfile_HL7RoutingRules'>repo</a> | <a href='https://github.com/rcemper/DD_BulkProfile_HL7RoutingRules'>demo</a> | 631
-| <a href='https://openexchange.intersystems.com/package/GoSelector'>GoSelector</a> | <a href='https://github.com/alexatwoodhead/GoSelector'>repo</a> | <a href='https://github.com/rcemper/DK_GoSelector'>demo</a> | 679
 | <a href='https://openexchange.intersystems.com/package/Interopway-REST'> Interopway REST </a> | <a href='https://github.com/cristianojs/interopway_rest'>repo</a> | <a href='https://github.com/rcemper/DK_interopway_rest'>demo</a> | 783
 | <a href='https://openexchange.intersystems.com/package/Interopway-XDBC'>Interopway XDBC </a> | <a href='https://github.com/cristianojs/interopway'>repo</a> | <a href='https://github.com/rcemper/DK_interopway'>demo</a> | 132
 | <a href='https://openexchange.intersystems.com/package/Intersystems-IRIS-platform-queue-trend-monitoring-component'> Intersystems IRIS platform queue trend monitoring component </a> | <a href='https://github.com/maoyubo/-Queue'>repo</a> | <a href='https://github.com/rcemper/DD_Queue'>demo</a> | 740
@@ -26,7 +25,7 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/Message-Bank'>Message Bank</a> | <a href='https://github.com/rcemper/DK_messagebank'>repo</a> | <a href='https://github.com/rcemper/DK_messagebank'>demo</a> | 212
 | <a href='https://openexchange.intersystems.com/package/objectscript-json-patch'>objectscript-json-patch</a> | <a href='https://github.com/grongierisc/objectscript-json-patch'>repo</a> | <a href='https://github.com/rcemper/DK_objectscript-json-patch'>demo</a> | 688
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **11** | 2026-09-09|17:25:32 |
+| Total **10** | 2026-09-09|17:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
