@@ -19,11 +19,10 @@ guide of the selected repo  - if available -  is required.
 | <a href='https://openexchange.intersystems.com/package/Interopway-REST'> Interopway REST </a> | <a href='https://github.com/cristianojs/interopway_rest'>repo</a> | <a href='https://github.com/rcemper/DK_interopway_rest'>demo</a> | 783
 | <a href='https://openexchange.intersystems.com/package/Interopway-XDBC'>Interopway XDBC </a> | <a href='https://github.com/cristianojs/interopway'>repo</a> | <a href='https://github.com/rcemper/DK_interopway'>demo</a> | 132
 | <a href='https://openexchange.intersystems.com/package/Intersystems-IRIS-platform-queue-trend-monitoring-component'> Intersystems IRIS platform queue trend monitoring component </a> | <a href='https://github.com/maoyubo/-Queue'>repo</a> | <a href='https://github.com/rcemper/DD_Queue'>demo</a> | 740
-| <a href='https://openexchange.intersystems.com/package/IRIS-memory-configuration-wizard'>IRIS memory configuration wizard</a> | <a href='https://github.com/bdeboe/isc-mem-config'>repo</a> | <a href='https://github.com/rcemper/DK_memory-configuration-wizard'>demo</a> | 164
 | <a href='https://openexchange.intersystems.com/package/isc-json'>isc-json</a> | <a href='https://github.com/intersystems/isc-json'>repo</a> | <a href='https://github.com/rcemper/DD_isc-json'>demo</a> | 622
 | <a href='https://openexchange.intersystems.com/package/objectscript-json-patch'>objectscript-json-patch</a> | <a href='https://github.com/grongierisc/objectscript-json-patch'>repo</a> | <a href='https://github.com/rcemper/DK_objectscript-json-patch'>demo</a> | 688
 | <a href='https://openexchange.intersystems.com/package/SendComplexMessageFromService'>SendComplexMessageFromService</a> | <a href='https://github.com/alexatwoodhead/SendComplexMessageFromService'>repo</a> | <a href='https://github.com/rcemper/PR_SendComplexMessageFromService'>demo</a> | 705
-| Total **8** | 2026-09-09|17:25:32 |
+| Total **7** | 2026-09-09|17:25:32 |
  
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
